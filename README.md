@@ -6,3 +6,4 @@
 
 [![chang0-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=chang0-0&show_icons=true&theme=aura_dark   )](https://github.com/chang0-0/github-readme-stats)
 
+[![chang0-0's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chang0-0&theme=aura_dark&layout=compact)](https://github.com/chang0-0/github-readme-stats)
