@@ -7,18 +7,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigyoung8375)](https://solved.ac/bigyoung8375)
 
-<details>
-  <summary>Toggle me!</summary>
-  <div>
-    <div>This is the detailed content</div>
-    <br/>
-    <details>
-      <summary>
-        Nested toggle! Some surprise inside...
-      </summary>
-      <div>
-        😲😲😲😲😲
-      </div>
-    </details>
-  </div>
-</details>
