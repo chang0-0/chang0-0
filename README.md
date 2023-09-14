@@ -7,9 +7,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigyoung8375)](https://solved.ac/bigyoung8375)
 
-[![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchang0-0%2Fhit-counter&count_bg=%23FF4646&title_bg=%23626262&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40lifeisbeautiful%2Fhit-counter&count_bg=%2348D382&title_bg=%23626262&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40lifeisbeautiful%2Fhit-counter&count_bg=%23FF4242&title_bg=%23727272&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=true)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40lifeisbeautiful%2Fhit-counter&count_bg=%2357D390&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VELOG&edge_flat=true)](https://hits.seeyoufarm.com)
 
 **Tools**
 
