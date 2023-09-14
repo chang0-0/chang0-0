@@ -6,3 +6,9 @@
 ![chang0-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=chang0-0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigyoung8375)](https://solved.ac/bigyoung8375)
+
+[![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchang0-0%2Fhit-counter&count_bg=%23FF4646&title_bg=%23626262&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+**Tools**
+
+
