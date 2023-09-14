@@ -16,12 +16,10 @@
  </p>
 
  <!-- Connect with me -->
- <h3 align="left">Connect with me:</h3>
- <p align="left">
-  
+ <h3 align="center">Connect with me</h3>
+ <p align="center">
+
  <a href="https://velog.io/@lifeisbeautiful" target="blank"><img align="center" src="https://github.com/chang0-0/assets/blob/main/velog.svg" alt="velog" height="30" width="30" /></a>
 
-
  
-  
  </p>
