@@ -9,17 +9,14 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40lifeisbeautiful%2Fhit-counter&count_bg=%23FF4242&title_bg=%23727272&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=true)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40lifeisbeautiful%2Fhit-counter&count_bg=%2357D390&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VELOG&edge_flat=true)](https://hits.seeyoufarm.com)
 
-**Tools**
 
- <h3 align="left">Languages and Tools:</h3>
- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+ <h3 align="center">Languages and Tools:</h3>
+ <p align="center">
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/chang0-0/assets/blob/main/koglin.png" alt="c" width="34" height="34"/> </a> 
  </p>
 
  <!-- Connect with me -->
  <h3 align="center">Connect with me</h3>
  <p align="center">
-
- <a href="https://velog.io/@lifeisbeautiful" target="blank"><img align="center" src="https://github.com/chang0-0/assets/blob/main/velog.svg" alt="velog" height="30" width="30" /></a>
-
- 
- </p>
+  <a href="https://velog.io/@lifeisbeautiful" target="blank"><img align="center" src="https://github.com/chang0-0/assets/blob/main/velog.svg" alt="velog" height="34" width="34" /></a>
+</p>
