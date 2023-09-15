@@ -2,7 +2,7 @@
 
  <h1 align="center">
   
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigyoung8375) 
+  <a href="https://solved.ac/profile/bigyoung8375"> ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigyoung8375) <a/>
  </h1>
 
  <h1 align="center">
