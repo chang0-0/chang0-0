@@ -1,17 +1,15 @@
 
- <p align="center">
-  
-  ![chang0-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=chang0-0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) </a> <br>
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigyoung8375) 
- 
- </p>
 
- <p align="center">
+ <h1 align="center">
+  
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigyoung8375) 
+ </h1>
+
+ <h1 align="center">
   
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40lifeisbeautiful%2Fhit-counter&count_bg=%23FF4242&title_bg=%23727272&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=true)](https://hits.seeyoufarm.com)
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40lifeisbeautiful%2Fhit-counter&count_bg=%2357D390&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VELOG&edge_flat=true)](https://hits.seeyoufarm.com)
- 
-  </p>
+ </h1>
 
 
  <h3 align="center">Languages and Tools:</h3>
