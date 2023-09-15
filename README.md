@@ -12,11 +12,11 @@
 
  <h3 align="center">Languages and Tools:</h3>
  <p align="center">
-  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/chang0-0/assets/blob/main/koglin.png" alt="c" width="34" height="34"/> </a> 
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/chang0-0/assets/blob/main/koglin.png" alt="c" width="30" height="30"/> </a> 
  </p>
 
  <!-- Connect with me -->
  <h3 align="center">Connect with me</h3>
  <p align="center">
-  <a href="https://velog.io/@lifeisbeautiful" target="blank"><img align="center" src="https://github.com/chang0-0/assets/blob/main/velog.svg" alt="velog" height="34" width="34" /></a>
+  <a href="https://velog.io/@lifeisbeautiful" target="blank"><img align="center" src="https://github.com/chang0-0/assets/blob/main/velog.svg" alt="velog" height="30" width="30" /></a>
 </p>
