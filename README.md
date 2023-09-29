@@ -12,7 +12,7 @@
  </h1>
 
 
- <h3 align="center">Languages and Tools:</h3>
+ <h3 align="center">Languages and Tools</h3>
  <p align="center">
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/chang0-0/assets/blob/main/kotlin%20icon.svg" alt="c" width="23" height="23"/> </a> 
   <a href="https://www.oracle.com/kr/java/" target="_blank"> <img src="https://github.com/chang0-0/assets/blob/main/java.svg" alt="c" width="32" height="32"/> </a>
